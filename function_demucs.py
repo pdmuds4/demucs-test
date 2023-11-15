@@ -48,4 +48,4 @@ def demucs_separate(track, model_name:Model=None, stem:Stem=None, format:Format=
         ds.main(options)
 
 if __name__ == "__main__":
-    demucs_separate("/Users/pam/Downloads/BGM/Soleily&Sanaas Collection/Road To Glory.mp3")
+    demucs_separate("")
